@@ -9,4 +9,6 @@ class Student
     
   end
   
+  def 
+  
 end
